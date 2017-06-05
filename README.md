@@ -8,6 +8,7 @@ Usage:
 
 Dependencies:
 ==
-[ open-browser.vim ](http://vimawesome.com/plugin/open-browser-vim)
+[open-browser.vim](http://vimawesome.com/plugin/open-browser-vim)
+[Vundle.vim](https://github.com/VundleVim/Vundle.vim)
 
    

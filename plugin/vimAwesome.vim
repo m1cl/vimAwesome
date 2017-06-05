@@ -1,3 +1,7 @@
+if !exists(":OpenBrowser")
+  PluginInstall open-browser
+endif
+
 function VimAwesome(search)
   let url = "vimawesome.com/?q=".a:search
    execute "OpenBrowser ". l:url 
